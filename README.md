@@ -6,6 +6,7 @@ A GitHub App built with [probot](https://github.com/probot/probot) that celebrat
 ## What it does
 
 *FEATURES PLACEHOLDER
+
 ## Getting started
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
